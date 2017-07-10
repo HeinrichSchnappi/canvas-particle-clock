@@ -1,1 +1,1 @@
-# canvas-particle-clock
+# use canvas to create a cool particle clock
